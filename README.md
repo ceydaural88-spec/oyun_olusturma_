@@ -1,6 +1,5 @@
-Elbette, GitHub README dosyanız için daha kısa ve doğrudan bir açıklama taslağı:
 
-📄 Kısa README Taslağı
+
 🎮 C Karakter Tabanlı Hayatta Kalma Simülatörü
 Bu proje, C programlama dilinin temel yapılarını kullanarak geliştirilmiş, metin tabanlı bir Hayatta Kalma Simülatörüdür.
 
